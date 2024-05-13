@@ -1,0 +1,61 @@
+div
+{
+	color: white;
+	border: 3px hidden black;
+	padding: 5px;
+	background-color: #4a0080;
+}
+#log
+{
+	font-size: 20px;
+	text-align: left;
+}
+
+#div2
+{
+	float: right;	
+}
+.lien
+{
+	margin: 20px;
+}
+#div1
+{
+	margin-top: 10%;
+	padding: 20px;
+}
+#div3
+{
+	margin-top: 5%;
+	width: 25%;
+	padding-left: 2px;
+	border: 3px hidden black;
+	float: left;
+}
+#log2
+{
+	font-size: 20px;
+	text-align: left;
+}
+p
+{
+	
+	margin-left: 50px;
+	font-weight: bold;
+	font-size: 100px;
+	display: inline-block;
+	margin-top:  3%;
+	vertical-align: top;
+	
+}
+#span1
+{
+	color: #a90f0f;
+	
+}
+#span2
+{
+	color:  #4a0080;
+	
+}
+
